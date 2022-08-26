@@ -9,7 +9,6 @@ public class Main {
         for (int i = 1; i <= n; i = i + 1) {
             value = value * i;
             System.out.println(Factorial + value);
-            }
         }
     }
-
+}
